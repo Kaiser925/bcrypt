@@ -8,7 +8,7 @@ A command line tool to hash txt by using bcrypt.
 Install bcrypt:
 
 ```shell
-$ go install github.com/Kaisr925/bcrypt@latest
+$ go install github.com/Kaiser925/bcrypt@latest
 ```
 
 Use bcrypt:
